@@ -1,0 +1,27 @@
+{
+  "name": "social_chatallinonedbmixinslib",
+  "version": "1.0.0",
+  "description": "AllexJS Mixins lib for an AllInOneDB service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/social-libs/chatallinonedbmixins.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "social",
+    "chat",
+    "allinonedb",
+    "mixins",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/social-libs/chatallinonedbmixins/issues"
+  },
+  "homepage": "https://github.com/social-libs/chatallinonedbmixins#readme"
+}
